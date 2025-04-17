@@ -2,7 +2,7 @@
   "name": "edupressx7",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://nourzidan.github.io/edu",
+  "homepage": "https://nourzidan.github.io/edupressx7",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
